@@ -58,6 +58,11 @@ Step 7: Finalize and Export
 
 
 # Output
-
+https://github.com/MOHAMEDRIDWAN/PROMPT-ENGINEERING/blob/main/Final_Prompt_Engineering_Report_With_Visuals_Mohamed_Ridwan_A.docx
 
 # Result
+The experiment clearly demonstrated the distinct behavioral profiles of the two models.
+Gemini obtained higher scores in Accuracy, Reasoning, and Engineering Usefulness. Grok obtained higher scores in Creativity and Speed.
+The total score evaluation concluded with Gemini scoring 28/30 and Grok scoring 26/30.
+Consequently, Gemini is declared as the better model for academic and engineering report generation.
+
