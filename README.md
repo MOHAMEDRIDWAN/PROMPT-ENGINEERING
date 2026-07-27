@@ -57,8 +57,8 @@ Step 7: Finalize and Export
 
 
 
-# Output
-https://github.com/MOHAMEDRIDWAN/PROMPT-ENGINEERING/blob/main/Final_Prompt_Engineering_Report_With_Visuals_Mohamed_Ridwan_A.docx
+# Output[
+https://github.com/MOHAMEDRIDWAN/PROMPT-ENGINEERING/blob/main/Final_Prompt_Engineering_Report_With_Visuals_Mohamed_Ridwan_A.docx](https://github.com/MOHAMEDRIDWAN/PROMPT-ENGINEERING/blob/main/Experiment%201%20Report.pdf)
 
 # Result
 The experiment clearly demonstrated the distinct behavioral profiles of the two models.
